@@ -1,0 +1,138 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:375px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:50px;
+  background:inherit;
+  background-color:rgba(0, 0, 0, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u0 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:597px;
+  width:375px;
+  height:50px;
+}
+#u1 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:17px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:36px;
+  height:36px;
+}
+#u2 {
+  border-width:0px;
+  position:absolute;
+  left:170px;
+  top:604px;
+  width:36px;
+  height:36px;
+}
+#u3 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:32px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:36px;
+  height:36px;
+}
+#u4 {
+  border-width:0px;
+  position:absolute;
+  left:19px;
+  top:604px;
+  width:36px;
+  height:36px;
+}
+#u5 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:32px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u6_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:33px;
+  height:36px;
+}
+#u6 {
+  border-width:0px;
+  position:absolute;
+  left:321px;
+  top:604px;
+  width:33px;
+  height:36px;
+}
+#u7 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:29px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u8 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:597px;
+}
+#u8_input {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:597px;
+  overflow:hidden;
+}
